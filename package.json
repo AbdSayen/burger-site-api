@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "json-server": "^0.17.0"
+    },
+    "name": "burger-site-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AbdSayen/burger-site-api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AbdSayen/burger-site-api/issues"
+    },
+    "homepage": "https://github.com/AbdSayen/burger-site-api#readme",
+    "description": ""
+}
