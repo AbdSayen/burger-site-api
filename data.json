@@ -306,5 +306,78 @@
                 "price": ""
             }
         ]
-    }]
+    }],
+    "galleries": [{
+            "id": "0",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_07-640x427.jpg",
+            "titleText": "Wedding party",
+            "infoText": "Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane."
+        },
+        {
+            "id": "1",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/10/portfolio_12-640x427.jpg",
+            "titleText": "Firm anniversary",
+            "infoText": "Organically grow the holistic world view of disruptive innovation via workplace"
+        },
+        {
+            "id": "2",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_09-640x427.jpg",
+            "titleText": "The garden party",
+            "infoText": "Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram"
+        },
+        {
+            "id": "3",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_06-640x427.jpg",
+            "titleText": "Indian food dishes",
+            "infoText": "Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane"
+        },
+        {
+            "id": "4",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_06-640x480.jpg",
+            "titleText": "Wine tasting",
+            "infoText": "Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-"
+        },
+        {
+            "id": "5",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/hero_inner_portfolio-640x480.jpg",
+            "titleText": "Video presentation",
+            "infoText": "Efficiently unleash cross-media information without cross-media value. Quickly maximize timely."
+        },
+        {
+            "id": "6",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_04-640x427.jpg",
+            "titleText": "Recall memories",
+            "infoText": "Committed to delivering high quality projects and innovate business solutions."
+        },
+        {
+            "id": "7",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/10/portfolio_11-640x427.jpg",
+            "titleText": "Sweet gallery",
+            "infoText": "Podcasting operational change management inside of workflows to establish a framework heeping."
+        },
+        {
+            "id": "8",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_10-640x427.jpg",
+            "titleText": "London blues",
+            "infoText": "New normal that has evolved from generation X is on the runway heading towards a"
+        },
+        {
+            "id": "9",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_08-640x427.jpg",
+            "titleText": "Sushi style",
+            "infoText": "Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer"
+        },
+        {
+            "id": "10",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/portfolio_07-640x427.jpg",
+            "titleText": "Conference gala dinner",
+            "infoText": "User generated content in real-time will have multiple touchpoints for offshoring"
+        },
+        {
+            "id": "11",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/hero_inner_portfolio-640x480.jpg",
+            "titleText": "Buffet dinner",
+            "infoText": "Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery."
+        }
+    ]
 }
