@@ -394,8 +394,8 @@
         },
         {
             "id": "2",
-            "path": "Bordeaux Logo t-shirt",
-            "titleText": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_02-450x450.jpg",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_02-450x450.jpg",
+            "titleText": "Bordeaux Logo t-shirt",
             "price": "$20.00"
         },
         {
