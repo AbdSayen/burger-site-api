@@ -379,5 +379,60 @@
             "titleText": "Buffet dinner",
             "infoText": "Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery."
         }
+    ],
+    "brand": [{
+            "id": "0",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_07-450x450.jpg",
+            "titleText": "Big Fast Food logo t-shirt (grey)",
+            "price": "$20.00"
+        },
+        {
+            "id": "1",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_03-450x450.jpg",
+            "titleText": "Big Fast Food logo t-shirt (red)",
+            "price": "$20.00"
+        },
+        {
+            "id": "2",
+            "path": "Bordeaux Logo t-shirt",
+            "titleText": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_02-450x450.jpg",
+            "price": "$20.00"
+        },
+        {
+            "id": "3",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_19-450x450.jpg",
+            "titleText": "Cooks cap poster",
+            "price": "$20.00"
+        },
+        {
+            "id": "4",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_12-450x450.jpg",
+            "titleText": "Fast Food cooks cap",
+            "price": "$20.00"
+        },
+        {
+            "id": "5",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_19-450x450.jpg",
+            "titleText": "Fast Food cupcake t-shirt",
+            "price": "$20.00"
+        },
+        {
+            "id": "6",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_22-450x450.jpg",
+            "titleText": "Fast Food fire poster",
+            "price": "$20.00"
+        },
+        {
+            "id": "7",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_11-450x450.jpg",
+            "titleText": "Fast Food fire t-shirt (grey)",
+            "price": "$20.00"
+        },
+        {
+            "id": "8",
+            "path": "http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2016/07/products_17-450x450.jpg",
+            "titleText": "Fast Food salad t-shirt",
+            "price": "$20.00"
+        }
     ]
 }
